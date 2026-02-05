@@ -1,29 +1,24 @@
-🏫 Al Falah Science School Website
-A modern, high-performance, and fully responsive school website built using Lovable AI. This project showcases the school's facilities, mission, and curriculum with a sleek, professional user interface.
+# 🏫 Al Falah Science School Website
 
-🚀 Tech Stack
-This Project is built by these modern tools:
+A modern, high-performance, and fully responsive school website built using **Lovable AI**. This project showcases the school's facilities, mission, and curriculum with a sleek, professional user interface.
 
-Framework: React.js (Powered by Vite)
+## 🚀 Tech Stack
+This project is built using these modern tools:
 
-Language: TypeScript
+* **Framework:** [React.js](https://reactjs.org/) (Powered by Vite)
+* **Language:** [TypeScript](https://www.typescriptlang.org/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **UI Library:** [shadcn/ui](https://ui.shadcn.com/)
+* **Icons:** Lucide React
 
-Styling: Tailwind CSS
+## ✨ Key Features
+* **Responsive Design:** Optimized for all screen sizes including smartphones, tablets, and desktops.
+* **Modern Aesthetics:** Clean layouts with smooth transitions and professional typography.
+* **Performance:** Lightning-fast load times thanks to the Vite build tool.
 
-UI Library: shadcn/ui
-
-Icons: Lucide React
-
-✨ Key Features
-Responsive Design: Optimized for all screen sizes including smartphones, tablets, and desktops.
-
-Modern Aesthetics: Clean layouts with smooth transitions and professional typography.
-
-Performance: Lightning-fast load times thanks to the Vite build tool.
-
-Learning Outcome
-Understanding project structure and workflow
-Practicing basic front-end development
-Exploring AI-assisted development for learning purposes
-
-This project was developed as a learning exercise and is not intended for production use.
+## 📚 Learning Outcomes
+Through this project, I have focused on:
+* Understanding modern project structure and workflow.
+* Practicing advanced front-end development techniques.
+* Exploring AI-assisted development to accelerate the building process.
+*  This project was developed as a learning exercise and is not intended for production use.
